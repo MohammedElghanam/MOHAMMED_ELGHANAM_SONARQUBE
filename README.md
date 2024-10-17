@@ -1,7 +1,3 @@
-Here’s an enhanced, polished version of the `README.md` for SonarQube with improved structure and readability:
-
----
-
 # MOHAMMED_ELGHANAM_SONARQUBE
 
 Welcome to the **SonarQube Setup Guide**! This documentation will walk you through setting up and running **SonarQube** locally using Docker to analyze and monitor your project's code quality.
@@ -106,7 +102,3 @@ By following these steps, you will have a fully operational SonarQube instance t
 ---
 
 💡 **Pro Tip**: Customize the `sonar-project.properties` file to fit your project's needs, excluding unnecessary files and directories from the scan.
-
---- 
-
-Now your `README.md` has a sleek and professional look! 🎉
